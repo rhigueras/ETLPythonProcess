@@ -1,0 +1,31 @@
+{
+  "PRODUCCION": {
+                  "USER": "root",
+                  "PASS": "admin",
+                  "HOST": "localhost",
+                  "DATABASE": "sys",
+                  "RUTA_XML": "C:\\PycharmProjects\\ETLProcess\\Data",
+                  "RUTA_DOWNLOAD": "C:\\PycharmProjects\\ETLProcess\\",
+                  "URL_PEDIDOS_DOWNLOAD": "http://datamanagement.es/Recursos/pedidos.rar"
+                },
+
+    "DESARROLLO": {
+                  "USER": "root",
+                  "PASS": "admin",
+                  "HOST": "localhost",
+                  "DATABASE": "sys",
+                  "RUTA_XML": "C:\\PycharmProjects\\ETLProcess\\Data",
+                  "RUTA_DOWNLOAD": "C:\\PycharmProjects\\ETLProcess\\",
+                  "URL_PEDIDOS_DOWNLOAD": "http://datamanagement.es/Recursos/pedidos.rar"
+                },
+
+    "LOCAL": {
+                  "USER": "root",
+                  "PASS": "admin",
+                  "HOST": "localhost",
+                  "DATABASE": "root",
+                  "RUTA_XML": "C:\\PycharmProjects\\ETLProcess\\Data",
+                  "RUTA_DOWNLOAD": "C:\\PycharmProjects\\ETLProcess\\",
+                  "URL_PEDIDOS_DOWNLOAD": "http://datamanagement.es/Recursos/pedidos.rar"
+                }
+}
